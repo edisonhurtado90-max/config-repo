@@ -1,0 +1,3 @@
+mensaje:
+  ambiente: "DESARROLLO"
+  descripcion: "Configuración del entorno de desarrollo"
